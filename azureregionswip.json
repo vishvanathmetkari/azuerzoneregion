@@ -1,0 +1,454 @@
+{
+  "data": {
+    "eastus": {
+      "location": "East US (Virginia)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "southcentralus": {
+      "location": "South Central US (Texas)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "westus2": {
+      "location": "West US 2 (Washington)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "westus3": {
+      "location": "West US 3 (Phoenix)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "australiaeast": {
+      "location": "Australia East (New South Wales)",
+      "regionName": "Asia Pacific",
+      "country": "Australia"
+    },
+    "southeastasia": {
+      "location": "Southeast Asia (Singapore)",
+      "regionName": "Asia Pacific",
+      "country": "Singapore"
+    },
+    "northeurope": {
+      "location": "North Europe (Ireland)",
+      "regionName": "Europe",
+      "country": "Ireland"
+    },
+    "swedencentral": {
+      "location": "Sweden Central (G\u00e4vle)",
+      "regionName": "Europe",
+      "country": "Sweden"
+    },
+    "uksouth": {
+      "location": "UK South (London)",
+      "regionName": "Europe",
+      "country": "United Kingdom"
+    },
+    "westeurope": {
+      "location": "West Europe (Netherlands)",
+      "regionName": "Europe",
+      "country": "Netherlands"
+    },
+    "centralus": {
+      "location": "Central US (Iowa)",
+      "regionName": "North America",
+      "country": "US Central"
+    },
+    "southafricanorth": {
+      "location": "South Africa North (Johannesburg)",
+      "regionName": "Africa",
+      "country": "South Africa"
+    },
+    "centralindia": {
+      "location": "Central India (Pune)",
+      "regionName": "Asia Pacific",
+      "country": "India"
+    },
+    "eastasia": {
+      "location": "East Asia (Hong Kong)",
+      "regionName": "Asia Pacific",
+      "country": "Hong Kong"
+    },
+    "japaneast": {
+      "location": "Japan East (Tokyo, Saitama)",
+      "regionName": "Asia Pacific",
+      "country": "Japan"
+    },
+    "koreacentral": {
+      "location": "Korea Central (Seoul)",
+      "regionName": "Asia Pacific",
+      "country": "South Korea"
+    },
+    "canadacentral": {
+      "location": "Canada Central (Toronto)",
+      "regionName": "Canada",
+      "country": "Canada"
+    },
+    "francecentral": {
+      "location": "France Central (Paris)",
+      "regionName": "Europe",
+      "country": "France"
+    },
+    "germanywestcentral": {
+      "location": "Germany West Central (Frankfurt)",
+      "regionName": "Europe",
+      "country": "Germany"
+    },
+    "italynorth": {
+      "location": "Italy North (Milan)",
+      "regionName": "Europe",
+      "country": "Italy"
+    },
+    "norwayeast": {
+      "location": "Norway East (Norway)",
+      "regionName": "Europe",
+      "country": "Norway"
+    },
+    "polandcentral": {
+      "location": "Poland Central (Warsaw)",
+      "regionName": "Europe",
+      "country": "Poland"
+    },
+    "spaincentral": {
+      "location": "Spain Central (Madrid)",
+      "regionName": "Europe",
+      "country": "Spain"
+    },
+    "switzerlandnorth": {
+      "location": "Switzerland North (Zurich)",
+      "regionName": "Europe",
+      "country": "Switzerland"
+    },
+    "mexicocentral": {
+      "location": "Mexico Central (Quer\u00e9taro State)",
+      "regionName": "Mexico",
+      "country": "Mexico"
+    },
+    "uaenorth": {
+      "location": "UAE North (Dubai)",
+      "regionName": "Middle East",
+      "country": "UAE"
+    },
+    "brazilsouth": {
+      "location": "Brazil South (Sao Paulo State)",
+      "regionName": "South America",
+      "country": "Brazil"
+    },
+    "israelcentral": {
+      "location": "Israel Central (Israel)",
+      "regionName": "Middle East",
+      "country": "Israel"
+    },
+    "qatarcentral": {
+      "location": "Qatar Central (Doha)",
+      "regionName": "Middle East",
+      "country": "Qatar"
+    },
+    "centralusstage": {
+      "location": "Central US (Stage)",
+      "regionName": "North America",
+      "country": "US Central"
+    },
+    "eastusstage": {
+      "location": "East US (Stage)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "eastus2stage": {
+      "location": "East US 2 (Stage)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "northcentralusstage": {
+      "location": "North Central US (Stage)",
+      "regionName": "North America",
+      "country": "US Central"
+    },
+    "southcentralusstage": {
+      "location": "South Central US (Stage)",
+      "regionName": "North America",
+      "country": "US South"
+    },
+    "westusstage": {
+      "location": "West US (Stage)",
+      "regionName": "North America",
+      "country": "US West"
+    },
+    "westus2stage": {
+      "location": "West US 2 (Stage)",
+      "regionName": "North America",
+      "country": "US West"
+    },
+    "asia": {
+      "location": "Asia",
+      "regionName": "Asia Pacific",
+      "country": ""
+    },
+    "asiapacific": {
+      "location": "Asia Pacific",
+      "regionName": "Asia Pacific",
+      "country": ""
+    },
+    "australia": {
+      "location": "Australia",
+      "regionName": "Asia Pacific",
+      "country": "Australia"
+    },
+    "brazil": {
+      "location": "Brazil",
+      "regionName": "South America",
+      "country": "Brazil"
+    },
+    "canada": {
+      "location": "Canada",
+      "regionName": "North America",
+      "country": "Canada"
+    },
+    "europe": {
+      "location": "Europe",
+      "regionName": "Europe",
+      "country": ""
+    },
+    "france": {
+      "location": "France",
+      "regionName": "Europe",
+      "country": "France"
+    },
+    "germany": {
+      "location": "Germany",
+      "regionName": "Europe",
+      "country": "Germany"
+    },
+    "global": {
+      "location": "Global",
+      "regionName": "Global",
+      "country": ""
+    },
+    "india": {
+      "location": "India",
+      "regionName": "Asia Pacific",
+      "country": "India"
+    },
+    "israel": {
+      "location": "Israel",
+      "regionName": "Middle East",
+      "country": "Israel"
+    },
+    "italy": {
+      "location": "Italy",
+      "regionName": "Europe",
+      "country": "Italy"
+    },
+    "japan": {
+      "location": "Japan",
+      "regionName": "Asia Pacific",
+      "country": "Japan"
+    },
+    "korea": {
+      "location": "Korea",
+      "regionName": "Asia Pacific",
+      "country": "Korea"
+    },
+    "newzealand": {
+      "location": "New Zealand",
+      "regionName": "Asia Pacific",
+      "country": "New Zealand"
+    },
+    "norway": {
+      "location": "Norway",
+      "regionName": "Europe",
+      "country": "Norway"
+    },
+    "poland": {
+      "location": "Poland",
+      "regionName": "Europe",
+      "country": "Poland"
+    },
+    "qatar": {
+      "location": "Qatar",
+      "regionName": "Middle East",
+      "country": "Qatar"
+    },
+    "singapore": {
+      "location": "Singapore",
+      "regionName": "Asia Pacific",
+      "country": "Singapore"
+    },
+    "southafrica": {
+      "location": "South Africa",
+      "regionName": "Africa",
+      "country": "South Africa"
+    },
+    "sweden": {
+      "location": "Sweden",
+      "regionName": "Europe",
+      "country": "Sweden"
+    },
+    "switzerland": {
+      "location": "Switzerland",
+      "regionName": "Europe",
+      "country": "Switzerland"
+    },
+    "uae": {
+      "location": "United Arab Emirates",
+      "regionName": "Middle East",
+      "country": "UAE"
+    },
+    "uk": {
+      "location": "United Kingdom",
+      "regionName": "Europe",
+      "country": "United Kingdom"
+    },
+    "unitedstates": {
+      "location": "United States",
+      "regionName": "US",
+      "country": "United States"
+    },
+    "unitedstateseuap": {
+      "location": "United States EUAP",
+      "regionName": "US",
+      "country": "United States"
+    },
+    "eastasiastage": {
+      "location": "East Asia (Stage)",
+      "regionName": "Asia Pacific",
+      "country": ""
+    },
+    "southeastasiastage": {
+      "location": "Southeast Asia (Stage)",
+      "regionName": "Asia Pacific",
+      "country": ""
+    },
+    "brazilus": {
+      "location": "Brazil US",
+      "regionName": "South America",
+      "country": "Brazil"
+    },
+    "eastus2": {
+      "location": "East US 2 (Virginia)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "eastusstg": {
+      "location": "East US STG (Virginia)",
+      "regionName": "North America",
+      "country": "US East"
+    },
+    "northcentralus": {
+      "location": "North Central US (Illinois)",
+      "regionName": "North America",
+      "country": "US Central"
+    },
+    "westus": {
+      "location": "West US (California)",
+      "regionName": "North America",
+      "country": "US West"
+    },
+    "japanwest": {
+      "location": "Japan West (Osaka)",
+      "regionName": "Asia Pacific",
+      "country": "Japan"
+    },
+    "jioindiawest": {
+      "location": "Jio India West (Jamnagar)",
+      "regionName": "Asia Pacific",
+      "country": "India"
+    },
+    "centraluseuap": {
+      "location": "Central US EUAP",
+      "regionName": "North America",
+      "country": "Canary (US)"
+    },
+    "eastus2euap": {
+      "location": "East US 2 EUAP",
+      "regionName": "North America",
+      "country": "Canary (US)"
+    },
+    "westcentralus": {
+      "location": "West Central US (Wyoming)",
+      "regionName": "North America",
+      "country": "US West"
+    },
+    "southafricawest": {
+      "location": "South Africa West (Cape Town)",
+      "regionName": "Africa",
+      "country": "South Africa"
+    },
+    "australiacentral": {
+      "location": "Australia Central (Canberra)",
+      "regionName": "Asia Pacific",
+      "country": "Australia"
+    },
+    "australiacentral2": {
+      "location": "Australia Central 2 (Canberra)",
+      "regionName": "Asia Pacific",
+      "country": "Australia"
+    },
+    "australiasoutheast": {
+      "location": "Australia Southeast (Victoria)",
+      "regionName": "Asia Pacific",
+      "country": "Australia"
+    },
+    "jioindiacentral": {
+      "location": "Jio India Central (Nagpur)",
+      "regionName": "Asia Pacific",
+      "country": "India"
+    },
+    "koreasouth": {
+      "location": "Korea South (Busan)",
+      "regionName": "Asia Pacific",
+      "country": "South Korea"
+    },
+    "southindia": {
+      "location": "South India (Chennai)",
+      "regionName": "Asia Pacific",
+      "country": "India"
+    },
+    "westindia": {
+      "location": "West India (Mumbai)",
+      "regionName": "Asia Pacific",
+      "country": "India"
+    },
+    "canadaeast": {
+      "location": "Canada East (Quebec)",
+      "regionName": "North America",
+      "country": "Canada"
+    },
+    "francesouth": {
+      "location": "France South (Marseille)",
+      "regionName": "Europe",
+      "country": "France"
+    },
+    "germanynorth": {
+      "location": "Germany North (Berlin)",
+      "regionName": "Europe",
+      "country": "Germany"
+    },
+    "norwaywest": {
+      "location": "Norway West (Norway)",
+      "regionName": "Europe",
+      "country": "Norway"
+    },
+    "switzerlandwest": {
+      "location": "Switzerland West (Geneva)",
+      "regionName": "Europe",
+      "country": "Switzerland"
+    },
+    "ukwest": {
+      "location": "UK West (Cardiff)",
+      "regionName": "Europe",
+      "country": "United Kingdom"
+    },
+    "uaecentral": {
+      "location": "UAE Central (Abu Dhabi)",
+      "regionName": "Middle East",
+      "country": "UAE"
+    },
+    "brazilsoutheast": {
+      "location": "Brazil Southeast (Rio)",
+      "regionName": "South America",
+      "country": "Brazil"
+    }
+  }
+}
